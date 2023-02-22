@@ -12,7 +12,7 @@ What evaluate obstructive sleep apnea patient-based screening questionnaires? A 
 Furthermore, to give the community a useful tool that can be used by any clinicians without any knowledge of coding, we set up a 👉[Binder repository](https://mybinder.org/v2/gh/vincentpmartin/OSAS.content.analysis/HEAD?labpath=jupyter_notebook_OSAS_content_analysis.ipynb)👈, guiding the reader to run the code in a fully online environemnent. 
 
 ## HTML files, tables and figures
-The analyze files corresponding to the [current study](https://raw.githack.com/vincentpmartin/OSAS-content-analysis/main/jupyter_notebook_OSAS_content_analysis.html) is available in this repository. <br>
+The analyze files corresponding to the [current study](https://raw.githack.com/vincentpmartin/OSAS.content.analysis/main/jupyter_notebook_OSAS_content_analysis.html) is available in this repository. <br>
 The figures and tables produced by this code are available in the [./tables_and_figures](./tables_and_figures) folder. 
 
 If you want to customize the code or run the analysis on your own data, please read 👇 next Section 👇
